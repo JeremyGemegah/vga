@@ -1,0 +1,2 @@
+vhdl work "counter_10.vhd"
+vhdl work "sync_count.vhd"

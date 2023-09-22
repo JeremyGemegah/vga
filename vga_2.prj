@@ -1,0 +1,4 @@
+vhdl work "counter_10.vhd"
+vhdl work "sync_count2.vhd"
+vhdl work "sr_flip_flop.vhd"
+vhdl work "vga_2.vhd"

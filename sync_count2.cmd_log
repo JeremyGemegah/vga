@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "E:/Xilinx/projects/vga/sync_count2.xst" -ofn "E:/Xilinx/projects/vga/sync_count2.syr" 

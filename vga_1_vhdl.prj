@@ -1,0 +1,4 @@
+vhdl work "E:\Xilinx\projects\vga\counter_10.vhd"
+vhdl work "E:\Xilinx\projects\vga\sync_count.vhd"
+vhdl work "E:\Xilinx\projects\vga\FSM.vhd"
+vhdl work "E:\Xilinx\projects\vga\vga_1.vhd"

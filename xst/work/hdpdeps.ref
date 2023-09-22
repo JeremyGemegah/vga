@@ -1,0 +1,40 @@
+V3 26
+FL E:/Xilinx/projects/vga/counter_10.vhd 2023/09/22.04:20:18 P.20131013
+EN work/counter_10 1695369285 FL E:/Xilinx/projects/vga/counter_10.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/STD_LOGIC_UNSIGNED 1381692179 \
+      PB ieee/NUMERIC_STD 1381692181
+AR work/counter_10/Behavioral 1695369286 \
+      FL E:/Xilinx/projects/vga/counter_10.vhd EN work/counter_10 1695369285
+FL E:/Xilinx/projects/vga/FSM.vhd 2023/09/22.04:12:07 P.20131013
+EN work/FSM 1695361640 FL E:/Xilinx/projects/vga/FSM.vhd PB ieee/std_logic_1164 1381692176
+AR work/FSM/Behavioral 1695361641 \
+      FL E:/Xilinx/projects/vga/FSM.vhd EN work/FSM 1695361640
+FL E:/Xilinx/projects/vga/sr_flip_flop.vhd 2023/09/22.07:00:29 P.20131013
+EN work/sr_flip_flop 1695369289 FL E:/Xilinx/projects/vga/sr_flip_flop.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/sr_flip_flop/Behavioral 1695369290 \
+      FL E:/Xilinx/projects/vga/sr_flip_flop.vhd EN work/sr_flip_flop 1695369289
+FL E:/Xilinx/projects/vga/sync_count.vhd 2023/09/22.04:52:46 P.20131013
+EN work/sync_count 1695361638 FL E:/Xilinx/projects/vga/sync_count.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/sync_count/Behavioral 1695361639 \
+      FL E:/Xilinx/projects/vga/sync_count.vhd EN work/sync_count 1695361638 \
+      CP counter_10
+FL E:/Xilinx/projects/vga/sync_count2.vhd 2023/09/22.07:09:14 P.20131013
+EN work/sync_count2 1695369287 FL E:/Xilinx/projects/vga/sync_count2.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/sync_count2/Behavioral 1695369288 \
+      FL E:/Xilinx/projects/vga/sync_count2.vhd EN work/sync_count2 1695369287 \
+      CP counter_10
+FL E:/Xilinx/projects/vga/vga_1.vhd 2023/09/22.05:46:49 P.20131013
+EN work/vga_1 1695361642 FL E:/Xilinx/projects/vga/vga_1.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/vga_1/Behavioral 1695361643 \
+      FL E:/Xilinx/projects/vga/vga_1.vhd EN work/vga_1 1695361642 CP sync_count \
+      CP fsm CP counter_10
+FL E:/Xilinx/projects/vga/vga_2.vhd 2023/09/22.07:54:31 P.20131013
+EN work/vga_2 1695369291 FL E:/Xilinx/projects/vga/vga_2.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/vga_2/Behavioral 1695369292 \
+      FL E:/Xilinx/projects/vga/vga_2.vhd EN work/vga_2 1695369291 CP sync_count2 \
+      CP sr_flip_flop

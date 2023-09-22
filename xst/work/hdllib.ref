@@ -1,0 +1,14 @@
+EN sync_count2 NULL E:/Xilinx/projects/vga/sync_count2.vhd sub00/vhpl10 1695369287
+EN vga_1 NULL E:/Xilinx/projects/vga/vga_1.vhd sub00/vhpl06 1695361642
+EN vga_2 NULL E:/Xilinx/projects/vga/vga_2.vhd sub00/vhpl12 1695369291
+EN sync_count NULL E:/Xilinx/projects/vga/sync_count.vhd sub00/vhpl04 1695361638
+AR vga_1 behavioral E:/Xilinx/projects/vga/vga_1.vhd sub00/vhpl07 1695361643
+EN counter_10 NULL E:/Xilinx/projects/vga/counter_10.vhd sub00/vhpl02 1695369285
+AR sr_flip_flop behavioral E:/Xilinx/projects/vga/sr_flip_flop.vhd sub00/vhpl09 1695369290
+AR counter_10 behavioral E:/Xilinx/projects/vga/counter_10.vhd sub00/vhpl03 1695369286
+AR vga_2 behavioral E:/Xilinx/projects/vga/vga_2.vhd sub00/vhpl13 1695369292
+EN sr_flip_flop NULL E:/Xilinx/projects/vga/sr_flip_flop.vhd sub00/vhpl08 1695369289
+EN fsm NULL E:/Xilinx/projects/vga/FSM.vhd sub00/vhpl00 1695361640
+AR sync_count2 behavioral E:/Xilinx/projects/vga/sync_count2.vhd sub00/vhpl11 1695369288
+AR sync_count behavioral E:/Xilinx/projects/vga/sync_count.vhd sub00/vhpl05 1695361639
+AR fsm behavioral E:/Xilinx/projects/vga/FSM.vhd sub00/vhpl01 1695361641

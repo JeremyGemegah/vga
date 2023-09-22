@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "E:/Xilinx/projects/vga/FSM.xst" -ofn "E:/Xilinx/projects/vga/FSM.syr" 

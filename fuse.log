@@ -1,0 +1,19 @@
+Running: E:\Xilinx\14.7\ISE_DS\ISE\bin\nt\unwrapped\fuse.exe -intstyle ise -incremental -o E:/Xilinx/projects/vga/sr_flip_flop_isim_beh.exe -prj E:/Xilinx/projects/vga/sr_flip_flop_beh.prj work.sr_flip_flop 
+ISim P.20131013 (signature 0x8ef4fb42)
+Number of CPUs detected in this system: 4
+Turning on mult-threading, number of parallel sub-compilation jobs: 8 
+Determining compilation order of HDL files
+Parsing VHDL file "E:/Xilinx/projects/vga/sr_flip_flop.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Fuse Memory Usage: 159372 KB
+Fuse CPU Usage: 686 ms
+Compiling package standard
+Compiling package std_logic_1164
+Compiling architecture behavioral of entity sr_flip_flop
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+Compiled 3 VHDL Units
+Built simulation executable E:/Xilinx/projects/vga/sr_flip_flop_isim_beh.exe
+Fuse Memory Usage: 168176 KB
+Fuse CPU Usage: 765 ms

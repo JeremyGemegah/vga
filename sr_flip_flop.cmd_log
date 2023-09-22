@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "E:/Xilinx/projects/vga/sr_flip_flop.xst" -ofn "E:/Xilinx/projects/vga/sr_flip_flop.syr" 

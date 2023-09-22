@@ -1,0 +1,28 @@
+Command line:
+   sr_flip_flop_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  54822
+
+Fri Sep 22 07:02:00 2023
+
+
+ Elaboration Time: 0.28125 sec
+
+ Current Memory Usage: 863.24 Meg
+
+ Total Signals          : 5
+ Total Nets             : 5
+ Total Signal Drivers   : 1
+ Total Blocks           : 2
+ Total Primitive Blocks : 2
+ Total Processes        : 1
+ Total Traceable Variables  : 8
+ Total Scalar Nets and Variables : 365
+
+ Total Simulation Time: 0.453125 sec
+
+ Current Memory Usage: 706.74 Meg
+
+Fri Sep 22 07:03:44 2023
+
